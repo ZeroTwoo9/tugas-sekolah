@@ -46,7 +46,7 @@ if (
 </div>
 
   <main class="content">
-    <h1>mantab</h1>
+    <h1>Ini Home</h1>
   </main>
 
   <footer class="footer">
